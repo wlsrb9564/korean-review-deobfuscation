@@ -1,0 +1,11 @@
+accelerate==1.2.1
+bitsandbytes==0.45.1
+peft==0.14.0
+transformers==4.48.2
+trl==0.14.0
+flash-attn
+vllm==0.7.1
+selenium
+chromedriver-autoinstaller
+pandas
+datasets
